@@ -1,0 +1,7 @@
+1 - React navigation
+
+2 - comando de instalação utilizando o expo, # npx expo install @react-navigation/native
+
+3 - npx expo install react-native-screens react-native-safe-area-contexto
+
+4 - npx expo install @react-navigation/native-stack
